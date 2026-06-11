@@ -1,4 +1,4 @@
-# E-commerce BI Project - Nhóm 13 
+# E-commerce BI Project - Group 13 
 
 Analyzing online retail transaction data using Python + PostgreSQL + Power BI.
 Dataset: Online Retail II (UCI) — 1,061,165 transaction rows from 2009–2011.
